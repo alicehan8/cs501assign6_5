@@ -4,7 +4,7 @@ This app gets a user's location permission, displays a google map centered at th
 In order to run this app, you must update the file "app/src/main/res/values/google_maps_api.xml" with your API key. 
 
 
-
+#### DEMO: 
 https://github.com/user-attachments/assets/24900236-c7e1-4718-be7f-f79711d3e7f1
 
 
